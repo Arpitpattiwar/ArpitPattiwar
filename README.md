@@ -1,7 +1,8 @@
 ## Hi there 👋
 
-I’m currently working on python
-I’m currently learning machine learning
+I’m currently working on python.
+
+I’m currently learning machine learning.
 <!--
 **Arpitpattiwar/ArpitPattiwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
